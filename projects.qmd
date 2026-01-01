@@ -2,23 +2,50 @@
 title: "Projects"
 ---
 
-## Research Projects
+<div class="projects-grid">
 
-Our research projects span multiple areas of decentralized systems, AI, and web technologies.
+::: {.project-card}
+<div class="project-title">Latent Representation and Tiered Indexing for Scalable and Efficient Data Product Creation from Large Data Lakes</div>
 
-::: {.callout-tip}
-## Adding Projects
-This page will be populated with detailed information about ongoing and completed research projects, including associated personnel and publications.
+This project focuses on developing advanced techniques for creating scalable and efficient data products from large data lakes through latent representation learning and tiered indexing strategies.
+
+<div class="project-sponsor">
+<span class="project-sponsor-label">Sponsor:</span>
+<a href="https://idea.rpi.edu/research/projects/rensselaer-ibm-artificial-intelligence-research-collaboration" class="project-sponsor-link" target="_blank">AIRC (Rensselaer-IBM Artificial Intelligence Research Collaboration)</a>
+</div>
 :::
 
-### Project Categories
+::: {.project-card}
+<div class="project-title">Explainable Risk and Coverage with Computable Insurance Contracts</div>
 
-- **Decentralized AI Systems**
-- **Blockchain Applications**
-- **Web Science Research**
-- **Knowledge Graph Construction**
-- **Semantic Web Technologies**
+This project explores the development of computable insurance contracts that provide explainable risk assessment and coverage analysis, leveraging semantic technologies and knowledge graphs.
 
-*Project details coming soon...*
+<div class="project-sponsor">
+<span class="project-sponsor-label">Sponsor:</span>
+<a href="https://iucrc.nsf.gov/centers/center-for-research-toward-advancing-financial-technologies-craft/" class="project-sponsor-link" target="_blank">CRAFT (Center for Research toward Advancing Financial Technologies)</a>
+</div>
+:::
 
+::: {.project-card}
+<div class="project-title">Privacy-Preserving Synthetic Data Generation for Financial Machine-Learning Tasks</div>
 
+This project investigates methods for generating privacy-preserving synthetic financial data that can be used for machine learning tasks while maintaining data confidentiality and regulatory compliance.
+
+<div class="project-sponsor">
+<span class="project-sponsor-label">Sponsor:</span>
+<a href="https://iucrc.nsf.gov/centers/center-for-research-toward-advancing-financial-technologies-craft/" class="project-sponsor-link" target="_blank">CRAFT (Center for Research toward Advancing Financial Technologies)</a>
+</div>
+:::
+
+::: {.project-card}
+<div class="project-title">Cascade-Adjusted Risk Analytics</div>
+
+This project develops advanced risk analytics methodologies that incorporate cascade effects and interdependencies in financial systems, enabling more accurate risk assessment and management.
+
+<div class="project-sponsor">
+<span class="project-sponsor-label">Sponsor:</span>
+<a href="https://iucrc.nsf.gov/centers/center-for-research-toward-advancing-financial-technologies-craft/" class="project-sponsor-link" target="_blank">CRAFT (Center for Research toward Advancing Financial Technologies)</a>
+</div>
+:::
+
+</div>
