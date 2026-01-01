@@ -1,6 +1,5 @@
 ---
 title: "BRAINS Research Group"
-subtitle: "Bridging Resilient Accountable Intelligent Networked Systems"
 ---
 
 ```{=html}

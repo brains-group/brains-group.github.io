@@ -2,7 +2,6 @@
 title: "Alumni"
 ---
 
-
 Former members of the BRAINS research group who have contributed to our research and moved on to new opportunities.
 
 ### Co-advised PhD Alumni
@@ -14,25 +13,25 @@ Former members of the BRAINS research group who have contributed to our research
 
 **Shruthi Chari**
 
+<div class="person-thesis">An Ontology-Enabled Approach For User-Centered and Knowledge-Enabled Explanations of AI Systems</div>
+<div class="person-period">F'18 - Su'24</div>
+<div class="person-employer">Research Scientist at Bristol Myers Squibb</div>
 :::
 
 </div>
 
-### 
+### Master's Alumni
+
 <div class="people-grid">
 
 ::: {.person-card}
-<img src="photos/Alumni/MS/Aarnav_Patel.jpeg" alt="Aarnav Patel" class="person-photo" />
+<img src="photos/Alumni/MS/Justin_Ottesen.jpeg" alt="Justin Ottesen" class="person-photo" />
 
-**Aarnav Patel**
+**Justin Ottesen**
 
-:::
-
-::: {.person-card}
-<img src="photos/Alumni/MS/Brendan_Capuzzo.jpg" alt="Brendan Capuzzo" class="person-photo" />
-
-**Brendan Capuzzo**
-
+<div class="person-thesis">General Swarm Contract Simulator</div>
+<div class="person-period">F'24 - F'25</div>
+<div class="person-employer">Machine Learning Engineer, Deeli AI</div>
 :::
 
 ::: {.person-card}
@@ -40,27 +39,9 @@ Former members of the BRAINS research group who have contributed to our research
 
 **Joshua Carson Youngbar**
 
-:::
-
-::: {.person-card}
-<img src="photos/Alumni/MS/Justin_Ottesen.jpeg" alt="Justin Ottesen" class="person-photo" />
-
-**Justin Ottesen**
-
-:::
-
-::: {.person-card}
-<img src="photos/Alumni/MS/Matt_Uryga.jpg" alt="Matt Uryga" class="person-photo" />
-
-**Matt Uryga**
-
-:::
-
-::: {.person-card}
-<img src="photos/Alumni/MS/Samyuth_Sagi.jpeg" alt="Samyuth Sagi" class="person-photo" />
-
-**Samyuth Sagi**
-
+<div class="person-thesis">Knowledge Graph Embedding Exploration</div>
+<div class="person-period">S'25 - F'25</div>
+<div class="person-employer">Technical Intern, Advanced Research Associates</div>
 :::
 
 ::: {.person-card}
@@ -68,11 +49,53 @@ Former members of the BRAINS research group who have contributed to our research
 
 **Yu-Kai Wang**
 
+<div class="person-thesis">Text-Summarization Quality Evaluator</div>
+<div class="person-period">F'24 - S'25</div>
+<div class="person-employer">Machine Learning Engineer, Deeli AI</div>
+:::
+
+::: {.person-card}
+<img src="photos/Alumni/MS/Samyuth_Sagi.jpeg" alt="Samyuth Sagi" class="person-photo" />
+
+**Samyuth Sagi**
+
+<div class="person-thesis">EmSights</div>
+<div class="person-period">S'24 - S'25</div>
+:::
+
+::: {.person-card}
+<img src="photos/Alumni/MS/Aarnav_Patel.jpeg" alt="Aarnav Patel" class="person-photo" />
+
+**Aarnav Patel**
+
+<div class="person-thesis">Swarm Contracts</div>
+<div class="person-period">F'24 - S'25</div>
+<div class="person-employer">Software Engineer, Lockheed Martin</div>
+:::
+
+::: {.person-card}
+<img src="photos/Alumni/MS/Brendan_Capuzzo.jpg" alt="Brendan Capuzzo" class="person-photo" />
+
+**Brendan Capuzzo**
+
+<div class="person-thesis">Explanations for Mobile AI</div>
+<div class="person-period">S'24 - F'24</div>
+<div class="person-employer">Software Engineer, Microsoft</div>
+:::
+
+::: {.person-card}
+<img src="photos/Alumni/MS/Matt_Uryga.jpg" alt="Matthew Uryga" class="person-photo" />
+
+**Matthew Uryga**
+
+<div class="person-thesis">DeFi Analysis</div>
+<div class="person-period">F'23 - S'24</div>
+<div class="person-employer">Software Engineer, Goldman Sachs</div>
 :::
 
 </div>
 
-### Undergraduate Alumni
+### Recent Undergraduate Alumni
 
 <div class="people-grid">
 
@@ -81,7 +104,8 @@ Former members of the BRAINS research group who have contributed to our research
 
 **David Fong**
 
-Undergraduate Alumni
+<div class="person-thesis">MentalHealthAI</div>
+<div class="person-period">F'23 - S'24</div>
 :::
 
 ::: {.person-card}
@@ -89,7 +113,8 @@ Undergraduate Alumni
 
 **Kaiyang Chang**
 
-Undergraduate Alumni
+<div class="person-thesis">CRAFT Blockchain Interoperability & Smart Derivatives Contract Encoding</div>
+<div class="person-period">S'24 - Su'25</div>
 :::
 
 ::: {.person-card}
@@ -97,7 +122,8 @@ Undergraduate Alumni
 
 **Sagar Sahu**
 
-Undergraduate Alumni
+<div class="person-thesis">Two-Way Traceability for Hybrid Insurance Contracts and Explainable Risk Analysis</div>
+<div class="person-period">F'25</div>
 :::
 
 ::: {.person-card}
@@ -105,7 +131,8 @@ Undergraduate Alumni
 
 **Tianshu Chu**
 
-Undergraduate Alumni
+<div class="person-thesis">MentalHealthAI</div>
+<div class="person-period">F'23 - S'24</div>
 :::
 
 ::: {.person-card}
@@ -113,9 +140,322 @@ Undergraduate Alumni
 
 **Xin Meng**
 
-Undergraduate Alumni
+<div class="person-thesis">Gap and Overlap Analysis in Computable Insurance Policies</div>
+<div class="person-period">F'25</div>
 :::
 
 </div>
+
+### Other Undergraduate Alumni
+
+The following undergraduate students have also contributed to our research:
+
+<ul class="alumni-list">
+<li class="alumni-list-item">
+  <span class="alumni-list-name">Bijun Wu</span>
+  <div class="alumni-list-thesis">Federated LLMs</div>
+  <div class="alumni-list-period">F'24 - S'25</div>
+</li>
+<li class="alumni-list-item">
+  <span class="alumni-list-name">Faizaan Ali</span>
+  <div class="alumni-list-thesis">Data Provenance for AI Model Training</div>
+  <div class="alumni-list-period">F'24 - S'25</div>
+</li>
+<li class="alumni-list-item">
+  <span class="alumni-list-name">Chengyu Zhang</span>
+  <div class="alumni-list-thesis">Privacy for Vertical Federated Learning</div>
+  <div class="alumni-list-period">F'24</div>
+</li>
+<li class="alumni-list-item">
+  <span class="alumni-list-name">Siddhant Agarwal</span>
+  <div class="alumni-list-thesis">Explainability for Mobile AI</div>
+  <div class="alumni-list-period">F'24</div>
+</li>
+<li class="alumni-list-item">
+  <span class="alumni-list-name">Albert Bao</span>
+  <div class="alumni-list-thesis">AI Model Safety</div>
+  <div class="alumni-list-period">F'24</div>
+</li>
+<li class="alumni-list-item">
+  <span class="alumni-list-name">Ashley Chan</span>
+  <div class="alumni-list-thesis">EmSights</div>
+  <div class="alumni-list-period">F'24</div>
+</li>
+<li class="alumni-list-item">
+  <span class="alumni-list-name">Tripp Lyons</span>
+  <div class="alumni-list-thesis">Flow Matching for Data Compression & Blockchain Interoperability</div>
+  <div class="alumni-list-period">F'24 and F'23</div>
+</li>
+<li class="alumni-list-item">
+  <span class="alumni-list-name">Joshua Moskoff</span>
+  <div class="alumni-list-thesis">Smart Derivatives Contracts</div>
+  <div class="alumni-list-period">F'24</div>
+</li>
+<li class="alumni-list-item">
+  <span class="alumni-list-name">Suhas Palwai</span>
+  <div class="alumni-list-thesis">Automating Financial Contracts</div>
+  <div class="alumni-list-period">F'24</div>
+</li>
+<li class="alumni-list-item">
+  <span class="alumni-list-name">Daniel Obolensky</span>
+  <div class="alumni-list-thesis">Tracing AI Training Data</div>
+  <div class="alumni-list-period">F'24</div>
+</li>
+<li class="alumni-list-item">
+  <span class="alumni-list-name">Max Zhang</span>
+  <div class="alumni-list-thesis">Machine Unlearning for Privacy and Piracy</div>
+  <div class="alumni-list-period">F'24</div>
+</li>
+<li class="alumni-list-item">
+  <span class="alumni-list-name">Matthew Merritt</span>
+  <div class="alumni-list-thesis">Federated Learning with Explainability</div>
+  <div class="alumni-list-period">S'24</div>
+</li>
+<li class="alumni-list-item">
+  <span class="alumni-list-name">Aarnav Patel</span>
+  <div class="alumni-list-thesis">Swarm Contracts</div>
+  <div class="alumni-list-period">F'23 - S'24</div>
+</li>
+<li class="alumni-list-item">
+  <span class="alumni-list-name">Samyuth Sagi</span>
+  <div class="alumni-list-thesis">EMSights</div>
+  <div class="alumni-list-period">S'23 - F'23</div>
+</li>
+<li class="alumni-list-item">
+  <span class="alumni-list-name">Manan Shukla</span>
+  <div class="alumni-list-thesis">BlockIoT</div>
+  <div class="alumni-list-period">F'19 - S'23</div>
+</li>
+<li class="alumni-list-item">
+  <span class="alumni-list-name">Kate Carbone</span>
+  <div class="alumni-list-thesis">BlockIoT & Blockchain Interoperability</div>
+  <div class="alumni-list-period">F'21 - S'23</div>
+</li>
+<li class="alumni-list-item">
+  <span class="alumni-list-name">Jared Gridley</span>
+  <div class="alumni-list-thesis">Crypto Scam Detection</div>
+  <div class="alumni-list-period">F'21 - S'23</div>
+</li>
+<li class="alumni-list-item">
+  <span class="alumni-list-name">John Cohen</span>
+  <div class="alumni-list-thesis">Research Data Sharing</div>
+  <div class="alumni-list-period">F'22 - S'23</div>
+</li>
+<li class="alumni-list-item">
+  <span class="alumni-list-name">Vishnu Kchittibhooma</span>
+  <div class="alumni-list-thesis">Blockchain Interoperability</div>
+  <div class="alumni-list-period">F'22 - S'23</div>
+</li>
+<li class="alumni-list-item">
+  <span class="alumni-list-name">Conor Flynn</span>
+  <div class="alumni-list-thesis">DeFi Data Engine</div>
+  <div class="alumni-list-period">S'23</div>
+</li>
+<li class="alumni-list-item">
+  <span class="alumni-list-name">Noah Kader</span>
+  <div class="alumni-list-thesis">Web Cleanup!</div>
+  <div class="alumni-list-period">S'23</div>
+</li>
+<li class="alumni-list-item">
+  <span class="alumni-list-name">Stanley Guo</span>
+  <div class="alumni-list-thesis">Blockchain Interoperability</div>
+  <div class="alumni-list-period">S'23</div>
+</li>
+<li class="alumni-list-item">
+  <span class="alumni-list-name">Jiawei Wu</span>
+  <div class="alumni-list-thesis">Swarm Contracts</div>
+  <div class="alumni-list-period">S'23</div>
+</li>
+<li class="alumni-list-item">
+  <span class="alumni-list-name">Haoran Bao</span>
+  <div class="alumni-list-thesis">Swarm Contracts</div>
+  <div class="alumni-list-period">S'23</div>
+</li>
+<li class="alumni-list-item">
+  <span class="alumni-list-name">Ryan Cheng</span>
+  <div class="alumni-list-thesis">Swarm Contracts</div>
+  <div class="alumni-list-period">S'23</div>
+</li>
+<li class="alumni-list-item">
+  <span class="alumni-list-name">Huy Chu</span>
+  <div class="alumni-list-thesis">Explainable Mobile App Development</div>
+  <div class="alumni-list-period">S'23</div>
+</li>
+<li class="alumni-list-item">
+  <span class="alumni-list-name">Megan Goulet</span>
+  <div class="alumni-list-thesis">Explainable Mobile App Development & Health Empowerment through Analytics Learning and Semantics (HEALS)</div>
+  <div class="alumni-list-period">Su'20 & S'23</div>
+</li>
+<li class="alumni-list-item">
+  <span class="alumni-list-name">Zhihan Chen</span>
+  <div class="alumni-list-thesis">Health Empowerment through Analytics Learning and Semantics (HEALS)</div>
+  <div class="alumni-list-period">Su'22 - F'22</div>
+</li>
+<li class="alumni-list-item">
+  <span class="alumni-list-name">Kacy Adams</span>
+  <div class="alumni-list-thesis">Research Data Sharing</div>
+  <div class="alumni-list-period">F'20 - F'22</div>
+</li>
+<li class="alumni-list-item">
+  <span class="alumni-list-name">Catherine Wang</span>
+  <div class="alumni-list-thesis">Decentralized Social Network Analysis & Research Data Sharing</div>
+  <div class="alumni-list-period">S'21 - F'22</div>
+</li>
+<li class="alumni-list-item">
+  <span class="alumni-list-name">Javier Marin-Maymi</span>
+  <div class="alumni-list-thesis">BlockIoT</div>
+  <div class="alumni-list-period">F'22</div>
+</li>
+<li class="alumni-list-item">
+  <span class="alumni-list-name">Griffin Dong</span>
+  <div class="alumni-list-thesis">Blockchain Interoperability</div>
+  <div class="alumni-list-period">F'22</div>
+</li>
+<li class="alumni-list-item">
+  <span class="alumni-list-name">Henry Liu</span>
+  <div class="alumni-list-thesis">Algorand Blockchain Research</div>
+  <div class="alumni-list-period">F'22</div>
+</li>
+<li class="alumni-list-item">
+  <span class="alumni-list-name">Jacky Xu</span>
+  <div class="alumni-list-thesis">Algorand Blockchain Research</div>
+  <div class="alumni-list-period">F'22</div>
+</li>
+<li class="alumni-list-item">
+  <span class="alumni-list-name">Noe Horowitz</span>
+  <div class="alumni-list-thesis">Research Data Sharing</div>
+  <div class="alumni-list-period">F'21 - S'22</div>
+</li>
+<li class="alumni-list-item">
+  <span class="alumni-list-name">Runxin Li</span>
+  <div class="alumni-list-thesis">NFT Research</div>
+  <div class="alumni-list-period">F'21 - S'22</div>
+</li>
+<li class="alumni-list-item">
+  <span class="alumni-list-name">Cindy Lyu</span>
+  <div class="alumni-list-thesis">BlockIoT</div>
+  <div class="alumni-list-period">Su'22</div>
+</li>
+<li class="alumni-list-item">
+  <span class="alumni-list-name">Juhi Gupta</span>
+  <div class="alumni-list-thesis">BlockIoT</div>
+  <div class="alumni-list-period">S'22</div>
+</li>
+<li class="alumni-list-item">
+  <span class="alumni-list-name">Junxi He</span>
+  <div class="alumni-list-thesis">NFT Research</div>
+  <div class="alumni-list-period">S'22</div>
+</li>
+<li class="alumni-list-item">
+  <span class="alumni-list-name">Junyi Wu</span>
+  <div class="alumni-list-thesis">NFT Research</div>
+  <div class="alumni-list-period">S'22</div>
+</li>
+<li class="alumni-list-item">
+  <span class="alumni-list-name">Qizhi (George) Lu</span>
+  <div class="alumni-list-thesis">Health Empowerment through Analytics Learning and Semantics (HEALS)</div>
+  <div class="alumni-list-period">Su'21 - S'22</div>
+</li>
+<li class="alumni-list-item">
+  <span class="alumni-list-name">Prasant Acharya</span>
+  <div class="alumni-list-thesis">Health Empowerment through Analytics Learning and Semantics (HEALS)</div>
+  <div class="alumni-list-period">Su'21 - F'21</div>
+</li>
+<li class="alumni-list-item">
+  <span class="alumni-list-name">Karthik Dusi</span>
+  <div class="alumni-list-thesis">BlockIoT</div>
+  <div class="alumni-list-period">F'21</div>
+</li>
+<li class="alumni-list-item">
+  <span class="alumni-list-name">Ruoyi (Jennifer) Zhan</span>
+  <div class="alumni-list-thesis">Research Data Sharing</div>
+  <div class="alumni-list-period">S'21 - F'21</div>
+</li>
+<li class="alumni-list-item">
+  <span class="alumni-list-name">Andrew Szoke</span>
+  <div class="alumni-list-thesis">Research Data Sharing</div>
+  <div class="alumni-list-period">S'21</div>
+</li>
+<li class="alumni-list-item">
+  <span class="alumni-list-name">Sahith Bhamidipati</span>
+  <div class="alumni-list-thesis">Research Data Sharing</div>
+  <div class="alumni-list-period">S'21</div>
+</li>
+<li class="alumni-list-item">
+  <span class="alumni-list-name">Jiahang Wang</span>
+  <div class="alumni-list-thesis">Smart Contracts Augmented with LEarning and Semantics</div>
+  <div class="alumni-list-period">F'20 - S'21</div>
+</li>
+<li class="alumni-list-item">
+  <span class="alumni-list-name">Roman Vakhrushev</span>
+  <div class="alumni-list-thesis">Federated Learning with Smart Contracts</div>
+  <div class="alumni-list-period">F'20 - S'21</div>
+</li>
+<li class="alumni-list-item">
+  <span class="alumni-list-name">Kharn Nigam</span>
+  <div class="alumni-list-thesis">Federated Learning with Smart Contracts</div>
+  <div class="alumni-list-period">S'21</div>
+</li>
+<li class="alumni-list-item">
+  <span class="alumni-list-name">Benjamin Kelly</span>
+  <div class="alumni-list-thesis">Research Data Sharing & Health Empowerment through Analytics Learning and Semantics (HEALS)</div>
+  <div class="alumni-list-period">S'20 - F'20</div>
+</li>
+<li class="alumni-list-item">
+  <span class="alumni-list-name">Daniel Kazenoff</span>
+  <div class="alumni-list-thesis">Crypto Scam Detection</div>
+  <div class="alumni-list-period">F'19 - S'20</div>
+</li>
+<li class="alumni-list-item">
+  <span class="alumni-list-name">Yuheng Zhou</span>
+  <div class="alumni-list-thesis">Health Empowerment through Analytics Learning and Semantics (HEALS)</div>
+  <div class="alumni-list-period">S'20</div>
+</li>
+<li class="alumni-list-item">
+  <span class="alumni-list-name">Aaron Hill</span>
+  <div class="alumni-list-thesis">Health Empowerment through Analytics Learning and Semantics (HEALS)</div>
+  <div class="alumni-list-period">S'20</div>
+</li>
+<li class="alumni-list-item">
+  <span class="alumni-list-name">Ruisi Jian</span>
+  <div class="alumni-list-thesis">Health Empowerment through Analytics Learning and Semantics (HEALS)</div>
+  <div class="alumni-list-period">S'20</div>
+</li>
+<li class="alumni-list-item">
+  <span class="alumni-list-name">Samarth Patel</span>
+  <div class="alumni-list-thesis">Health Empowerment through Analytics Learning and Semantics (HEALS)</div>
+  <div class="alumni-list-period">S'20</div>
+</li>
+<li class="alumni-list-item">
+  <span class="alumni-list-name">Xingjian Zhao</span>
+  <div class="alumni-list-thesis">Smart Contracts Augmented with LEarning and Semantics</div>
+  <div class="alumni-list-period">Su'19 - S'20</div>
+</li>
+<li class="alumni-list-item">
+  <span class="alumni-list-name">Shuze Liu</span>
+  <div class="alumni-list-thesis">Smart Contracts Augmented with LEarning and Semantics</div>
+  <div class="alumni-list-period">F'18 - S'20</div>
+</li>
+<li class="alumni-list-item">
+  <span class="alumni-list-name">Yanlin Zhu</span>
+  <div class="alumni-list-thesis">Smart Contracts Augmented with LEarning and Semantics</div>
+  <div class="alumni-list-period">F'18 - S'20</div>
+</li>
+<li class="alumni-list-item">
+  <span class="alumni-list-name">Robin Hong</span>
+  <div class="alumni-list-thesis">Smart Contracts Augmented with LEarning and Semantics</div>
+  <div class="alumni-list-period">S'19</div>
+</li>
+<li class="alumni-list-item">
+  <span class="alumni-list-name">Gretchen Forbush</span>
+  <div class="alumni-list-thesis">Smart Contracts Augmented with LEarning and Semantics</div>
+  <div class="alumni-list-period">Su'19 - S'20</div>
+</li>
+<li class="alumni-list-item">
+  <span class="alumni-list-name">Jade Franklin</span>
+  <div class="alumni-list-thesis">Health Empowerment through Analytics Learning and Semantics (HEALS)</div>
+  <div class="alumni-list-period">Su'19</div>
+</li>
+</ul>
 
 ---
