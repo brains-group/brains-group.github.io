@@ -2,25 +2,107 @@
 title: "People"
 ---
 
-## Current Students
-
 Meet the members of the BRAINS research group.
-
-::: {.callout-tip}
-## Adding People
-This page will display current students with their photos, names, and co-authored papers. Each person's information will be linked to their publications.
-:::
 
 ### Faculty
 
-*Faculty information coming soon...*
+<div class="people-grid">
 
-### Graduate Students
+::: {.person-card}
+<img src="photos/PI/Oshani_Seneviratne.jpg" alt="Oshani Seneviratne" class="person-photo" />
 
-*Student profiles coming soon...*
+**Oshani Seneviratne**
+
+:::
+
+</div>
+
+### PhD Students
+
+<div class="people-grid">
+
+::: {.person-card}
+<img src="photos/Current/PhD/Inwon_Kang.jpeg" alt="Inwon Kang" class="person-photo" />
+
+**Inwon Kang**
+
+:::
+
+::: {.person-card}
+<img src="photos/Current/PhD/Fernando_Spadea.jpeg" alt="Fernando Spadea" class="person-photo" />
+
+**Fernando Spadea**
+
+:::
+
+::: {.person-card}
+<img src="photos/Current/PhD/Maruf_Ahmed_Mridul.jpeg" alt="Maruf Ahmed Mridul" class="person-photo" />
+
+**Maruf Ahmed Mridul**
+:::
+
+::: {.person-card}
+<img src="photos/Current/PhD/Md_Saikat_Islam_Khan_Bappy.jpg" alt="Md Saikat Islam Khan Bappy" class="person-photo" />
+
+**Md Saikat Islam Khan Bappy**
+:::
+
+::: {.person-card}
+<img src="photos/Current/PhD/Jui_Chien_Lin.jpeg" alt="Jui Chien Lin" class="person-photo" />
+
+**Jui Chien Lin**
+
+:::
+
+</div>
+
+### Co-advised PhD Students
+
+<div class="people-grid">
+
+::: {.person-card}
+<img src="photos/Current/Co-PhD/Nipun_Pathirage.png" alt="Nipun Pathirage" class="person-photo" />
+
+**Nipun Pathirage**
+:::
+
+</div>
+
+### Master's Students
+
+<div class="people-grid">
+
+::: {.person-card}
+<img src="photos/Current/MS/Faizaan_Ali.jpeg" alt="Faizaan Ali" class="person-photo" />
+
+**Faizaan Ali**
+:::
+
+</div>
 
 ### Undergraduate Students
 
-*Student profiles coming soon...*
+<div class="people-grid">
 
+::: {.person-card}
+<img src="photos/Current/UG/Abhirup_Dasgupta.jpeg" alt="Abhirup Dasgupta" class="person-photo" />
 
+**Abhirup Dasgupta**
+
+:::
+
+::: {.person-card}
+<img src="photos/Current/UG/Abid_Talukder.png" alt="Abid Talukder" class="person-photo" />
+
+**Abid Talukder**
+
+:::
+
+::: {.person-card}
+<img src="photos/Current/UG/Lorenzo_Carta.jpeg" alt="Lorenzo Carta" class="person-photo" />
+
+**Lorenzo Carta**
+
+:::
+
+</div>

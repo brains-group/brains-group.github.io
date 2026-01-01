@@ -2,17 +2,120 @@
 title: "Alumni"
 ---
 
-## Alumni
 
-Former members of the BRAINS research group.
+Former members of the BRAINS research group who have contributed to our research and moved on to new opportunities.
 
-::: {.callout-tip}
-## Alumni Profiles
-This page will display alumni with their photos, projects they worked on, and publications they contributed to during their time in the group.
+### Co-advised PhD Alumni
+
+<div class="people-grid">
+
+::: {.person-card}
+<img src="photos/Alumni/Co-PhD/Shruthi_Chari.jpeg" alt="Shruthi Chari" class="person-photo" />
+
+**Shruthi Chari**
+
 :::
 
-### Alumni Directory
+</div>
 
-*Alumni information coming soon...*
+### 
+<div class="people-grid">
 
+::: {.person-card}
+<img src="photos/Alumni/MS/Aarnav_Patel.jpeg" alt="Aarnav Patel" class="person-photo" />
 
+**Aarnav Patel**
+
+:::
+
+::: {.person-card}
+<img src="photos/Alumni/MS/Brendan_Capuzzo.jpg" alt="Brendan Capuzzo" class="person-photo" />
+
+**Brendan Capuzzo**
+
+:::
+
+::: {.person-card}
+<img src="photos/Alumni/MS/Joshua_Carson_Youngbar.jpeg" alt="Joshua Carson Youngbar" class="person-photo" />
+
+**Joshua Carson Youngbar**
+
+:::
+
+::: {.person-card}
+<img src="photos/Alumni/MS/Justin_Ottesen.jpeg" alt="Justin Ottesen" class="person-photo" />
+
+**Justin Ottesen**
+
+:::
+
+::: {.person-card}
+<img src="photos/Alumni/MS/Matt_Uryga.jpg" alt="Matt Uryga" class="person-photo" />
+
+**Matt Uryga**
+
+:::
+
+::: {.person-card}
+<img src="photos/Alumni/MS/Samyuth_Sagi.jpeg" alt="Samyuth Sagi" class="person-photo" />
+
+**Samyuth Sagi**
+
+:::
+
+::: {.person-card}
+<img src="photos/Alumni/MS/Yu-Kai_Wang.jpeg" alt="Yu-Kai Wang" class="person-photo" />
+
+**Yu-Kai Wang**
+
+:::
+
+</div>
+
+### Undergraduate Alumni
+
+<div class="people-grid">
+
+::: {.person-card}
+<img src="photos/Alumni/UG/David_Fong.jpg" alt="David Fong" class="person-photo" />
+
+**David Fong**
+
+Undergraduate Alumni
+:::
+
+::: {.person-card}
+<img src="photos/Alumni/UG/Kaiyang_Chang.jpg" alt="Kaiyang Chang" class="person-photo" />
+
+**Kaiyang Chang**
+
+Undergraduate Alumni
+:::
+
+::: {.person-card}
+<img src="photos/Alumni/UG/Sagar_Sahu.jpeg" alt="Sagar Sahu" class="person-photo" />
+
+**Sagar Sahu**
+
+Undergraduate Alumni
+:::
+
+::: {.person-card}
+<img src="photos/Alumni/UG/Tianshu_Chu.jpg" alt="Tianshu Chu" class="person-photo" />
+
+**Tianshu Chu**
+
+Undergraduate Alumni
+:::
+
+::: {.person-card}
+<img src="photos/Alumni/UG/Xin_Meng.jpeg" alt="Xin Meng" class="person-photo" />
+
+**Xin Meng**
+
+Undergraduate Alumni
+:::
+
+</div>
+
+---
