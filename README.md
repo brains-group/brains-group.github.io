@@ -84,8 +84,42 @@ jobs:
 - **Projects**: Edit `projects.qmd`
 - **People**: Edit `people.qmd`
 - **News**: Edit `news.qmd`
-- **Publications**: Edit `publications.qmd` (will integrate with BibTeX)
+- **Publications**: Generated from BibTeX files (see [docs/PUBLICATIONS_SETUP.md](docs/PUBLICATIONS_SETUP.md))
 - **Alumni**: Edit `alumni.qmd`
+
+### Generating Publications Page
+
+The publications page is automatically generated from BibTeX files. See [docs/PUBLICATIONS_SETUP.md](docs/PUBLICATIONS_SETUP.md) for detailed instructions.
+
+Quick start:
+```bash
+# Install Python dependencies
+pip install -r requirements.txt
+
+# Generate publications page
+python3 scripts/generate_publications.py
+
+# Render website
+quarto render
+```
+
+## Project Structure
+
+```
+brains-group.github.io/
+├── scripts/              # Python scripts for automation
+│   └── generate_publications.py
+├── docs/                 # Documentation files
+│   ├── PUBLICATIONS_SETUP.md
+│   ├── GITHUB_PAGES_SETUP.md
+│   └── INSTALL_QUARTO.md
+├── photos/               # Profile photos
+├── *.qmd                 # Quarto markdown pages
+├── _quarto.yml          # Quarto configuration
+├── styles.css           # Custom styles
+├── requirements.txt     # Python dependencies
+└── README.md            # This file
+```
 
 ## Customization
 

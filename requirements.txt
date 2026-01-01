@@ -1,0 +1,7 @@
+# Python dependencies for BRAINS Group website scripts
+# Install with: pip install -r requirements.txt
+
+# BibTeX parser for robust parsing of bibliography files
+# Note: Version 2.0.0 is still in beta, using latest stable version
+bibtexparser>=1.4.0
+

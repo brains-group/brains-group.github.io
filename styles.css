@@ -315,3 +315,37 @@ a:hover {
   }
 }
 
+/* Publications page styling */
+.pub-category {
+  margin: 2rem 0;
+}
+
+.pub-category ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.pub-category li {
+  padding: 1rem;
+  margin: 0.75rem 0;
+  background: var(--bs-light);
+  border-left: 4px solid var(--bs-primary);
+  border-radius: 4px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.pub-category li:hover {
+  transform: translateX(5px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#pubSearch {
+  margin-bottom: 2rem;
+}
+
+#pubSearch:focus {
+  outline: none;
+  border-color: var(--bs-primary);
+  box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.25);
+}
+

@@ -2,29 +2,357 @@
 title: "Publications"
 ---
 
-## Publications
+```{=html}
+<div style='margin: 2rem 0;'>
+<input type='text' id='pubSearch' placeholder='Search publications...' 
+       style='width: 100%; padding: 0.75rem; font-size: 1rem; border: 2px solid #ddd; border-radius: 8px;' />
+</div>
+```
 
-Research publications from the BRAINS research group.
+```{=html}
+<div id='publications-container'>
+```
 
-::: {.callout-tip}
-## BibTeX Integration
-This page will be automatically generated from a BibTeX file. Publications will be linked to the corresponding researchers on their profile pages.
-:::
+### Books
 
-### Recent Publications
+```{=html}
+<div class='pub-category' data-category='books'>
+```
 
-*Publications will be listed here once the BibTeX file is configured...*
+- **Oshani Seneviratne and Jim Hendler**. *Linking the World's Information: Essays on Tim Berners-Lee’s Invention of the World Wide Web*. (2023) [PDF](https://doi.org/10.1145/3591366.3591372)
 
-### By Year
+```{=html}
+</div>
+```
 
-*Publications organized by year will appear here...*
+### Book Chapters
 
-### By Research Area
+```{=html}
+<div class='pub-category' data-category='chapters'>
+```
 
-- **Decentralized AI**
-- **Blockchain**
-- **Web Science**
-- **Knowledge Graphs**
-- **Semantic Web**
+- **Kang, Inwon
+and Woensel, William Van
+and Seneviratne, Oshani**. *Using Large Language Models for Generating Smart Contracts for Health Insurance from Textual Policies*. In AI for Health Equity and Fairness: Leveraging AI to Address Social Determinants of Health. (2024) [PDF](https://doi.org/10.1007/978-3-031-63592-2_11) | [DOI](https://doi.org/10.1007/978-3-031-63592-2_11)
 
+- **Gjorgjina Cenikj, Mauro Dragoni, Tome Eftimov, et al.**. *Neurosymbolic Methods for Food Computing*. In Frontiers in Artificial Intelligence and Applications: The Handbook on Neurosymbolic AI and Knowledge Graphs. (2024) [PDF](https://doi.org/10.3233/FAIA250242) | [DOI](https://doi.org/10.3233/FAIA250242)
 
+- **Yeung, Ching-man Au, Liccardi, Ilaria, Lu, Kanghao, et al.**. *Decentralization: The Future of Online Social Networking*. In Linking the World’s Information: Essays on Tim Berners-Lee’s Invention of the World Wide Web. (2023) [PDF](https://doi.org/10.1145/3591366.3591383)
+
+- **Oshani Seneviratne, Amy van der Hiel, and Lalana Kagal**. *Tim Berners-Lee's Research at the Decentralized Information Group at MIT*. In Linking the World's Information: Essays on Tim Berners-Lee’s Invention of the World Wide Web. (2023) [PDF](https://dl.acm.org/doi/10.1145/3591366.3591384)
+
+- **Oshani Seneviratne and Manan Shukla**. *Personal health knowledge graph construction using Internet of Medical Things*. In Personal Knowledge Graphs (PKGs): Methodology, tools and applications. (2023) [PDF](https://digital-library.theiet.org/content/books/10.1049/pbpc063e_ch13) | [DOI](https://doi.org/10.1049/PBPC063E_ch13)
+
+- **Seneviratne, Oshani**. *Health Data Management for Internet of Medical Things*. In Women Securing the Future with TIPPSS for Connected Healthcare: Trust, Identity, Privacy, Protection, Safety, Security. (2022) [PDF](https://doi.org/10.1007/978-3-030-93592-4_1) | [DOI](https://doi.org/10.1007/978-3-030-93592-4_1)
+
+- **Chen, Ching-Hua
+and Gruen, Daniel
+and Harris, Jonathan
+and Hendler, James
+and McGuinness, Deborah L.
+and Monti, Marco
+and Rastogi, Nidhi
+and Seneviratne, Oshani
+and Zaki, Mohammed J.**. *Semantic Technologies for Clinically Relevant Personal Health Applications*. In Personal Health Informatics: Patient Participation in Precision Health. (2022) [PDF](https://doi.org/10.1007/978-3-031-07696-1_10) | [DOI](https://doi.org/10.1007/978-3-031-07696-1_10)
+
+```{=html}
+</div>
+```
+
+### Journal Articles
+
+```{=html}
+<div class='pub-category' data-category='journals'>
+```
+
+- **Inwon Kang, Parikshit Ram, Yi Zhou, et al.**. *On Learning Representations for Tabular Data Distillation*. In *Transactions on Machine Learning Research*. (2025)
+
+- **William Van Woensel and Oshani Seneviratne**. *Semantic Interoperability on Blockchain by Generating Smart Contracts Based on Knowledge Graphs*. In *Blockchain: Research and Applications*. (2025)
+
+- **Shruthi Chari, Oshani Seneviratne, Mohamed Ghalwash, et al.**. *Explanation Ontology: A general-purpose, semantic representation for supporting user-centered explanations*. In *Semantic Web*. (2024) [PDF](https://doi.org/10.3233/SW-233282) | [DOI](https://doi.org/10.3233/SW-233282)
+
+- **Oshani Seneviratne, Kacy Adams, and Deborah L. McGuinness**. *Accountable Bench-to-Bedside Data-Sharing Mechanism for Researchers*. In *ACM Transactions on Social Computing*. (2023) [PDF](https://doi.org/10.1145/3609486)
+
+- **Oshani Seneviratne, Amar K. Das, Shruthi Chari, et al.**. *Semantically Enabling Clinical Decision Support Recommendations*. In *Journal of Biomedical Semantics*. (2023) [PDF](https://doi.org/10.1186/s13326-023-00285-9)
+
+- **Luis-Daniel Ibáñez, John Domingue, Sabrina Kirrane, et al.**. *Trust, Accountability, and Autonomy in Knowledge Graph-based AI for Self-determination*. In *Transactions on Graph Data and Knowledge (TGDK)*. (2023) [PDF](https://drops.dagstuhl.de/entities/document/10.4230/TGDK.1.1.9) | [DOI](https://doi.org/10.4230/TGDK.1.1.9)
+
+- **Aaron M. Green, Michael P. Giannattasio, John S. Erickson, et al.**. *DeFi Survival Analysis: Insights Into the Emerging Decentralized Financial Ecosystem*. In *ACM Distributed Ledger Technologies (DLT) Research and Practice*. (2023) [PDF](https://doi.org/10.1145/3638064)
+
+- **Shruthi Chari, Prasant Acharya, Daniel M. Gruen, et al.**. *Informing clinical assessment by contextualizing post-hoc explanations of risk prediction models in type-2 diabetes*. In *Artificial Intelligence in Medicine*. (2023) [PDF](https://www.sciencedirect.com/science/article/pii/S093336572300012X) | [DOI](https://doi.org/https://doi.org/10.1016/j.artmed.2023.102498)
+
+```{=html}
+</div>
+```
+
+### Conference Papers
+
+```{=html}
+<div class='pub-category' data-category='conferences'>
+```
+
+- **Gautam Kishore Shahi, Oshani Seneviratne, and Marc Spaniol**. *SemCAFE: When Named Entities Make the Difference–Assessing Web Source Reliability through Entity-level Analytics*. In Proceedings of the 17th ACM Web Science Conference. (2025)
+
+- **Maruf Ahmed Mridul, Ian Sloyan, Aparna Gupta, and Oshani Seneviratne**. *AI4Contracts: LLM & RAG-Powered Encoding of Financial Derivative Contracts*. (2025)
+
+- **Fernando Spadea and Oshani Seneviratne**. *Aligning Language Models with Investor and Market Behavior for Financial Recommendations*. (2025)
+
+- **Maruf Ahmed Mridul and Oshani Seneviratne**. *Curriculum-Guided Reinforcement Learning for Synthesizing Gas-Efficient Financial Derivatives Contracts*. (2025)
+
+- **Pengfei Zhang, Mohbat Fnu and
+Yutong Song, Oshani Seneviratne, et al.**. *Adaptive Constraint Relaxation in Personalized Nutrition Recommendations: An LLM-Driven Knowledge Graph Retrieval Approach*. In AMIA Annual Symposium Proceedings. (2025)
+
+- **Kang, Inwon, Mridul, Maruf Ahmed, Sanders, Abraham, et al.**. *Deciphering Crypto Twitter*. In Proceedings of the 16th ACM Web Science Conference. (2024) [PDF](https://doi.org/10.1145/3614419.3644026) | [DOI](https://doi.org/10.1145/3614419.3644026)
+
+- **David Fong, Tianshu Chu, Matthew Heflin, et al.**. *Predicting Depression and Anxiety: A Multi-Layer Perceptron for Analyzing COVID-19 Mental Health Impact*. In 2024 8th International Conference on Medical and Health Informatics (ICMHI 2024). (2024)
+
+- **Fernando Spadea and Oshani Seneviratne**. *Support and Scandals in GameFi DApps: A Network Analysis of The Sandbox Transactions*. In 2024 IEEE International Conference on Decentralized Applications and Infrastructures (DAPPS). (2024) [DOI](https://doi.org/10.1109/DAPPS61106.2024.00014)
+
+- **Linh Tran, Sanjay Chari, Md. Saikat Islam Khan, et al.**. *A Differentially Private Blockchain-Based Approach for Vertical Federated Learning*. In 2024 IEEE International Conference on Decentralized Applications and Infrastructures (DAPPS). (2024) [DOI](https://doi.org/10.1109/DAPPS61106.2024.00020)
+
+- **Oshani Seneviratne**. *The Feasibility of a Smart Contract ``Kill Switch''*. In The Sixth International Conference on Blockchain Computing and Applications (BCCA 2024). (2024) [PDF](https://arxiv.org/abs/2407.10302)
+
+- **Maruf Ahmed Mridul, Kaiyang Chang, Aparna Gupta, and Oshani Seneviratne**. *Smart Contracts, Smarter Payments: Innovating Cross Border Payments and Reporting Transactions*. In IEEE Computational Intelligence in Finance and Economic Conference (CIFEr). (2024) [DOI](https://doi.org/10.1109/CIFEr62890.2024.10772792)
+
+- **Mohamed Lashuel, Gulrukh Kurdistan, Aaron Green, et al.**. *LLM-Based Code Generation for Querying Temporal Tabular Financial Data*. In IEEE Computational Intelligence in Finance and Economic Conference (CIFEr). (2024) [DOI](https://doi.org/10.1109/CIFEr62890.2024.10772804)
+
+- **Md Saikat Islam Khan Bappy, Aparna Gupta, Oshani Seneviratne, and Stacy Patterson**. *Fed-RD: Privacy-Preserving Federated Learning for Financial Crime Detection*. In 2024 IEEE Symposium on Computational Intelligence for Financial Engineering and Economics (CIFEr). (2024) [DOI](https://doi.org/10.1109/CIFEr62890.2024.10772978)
+
+- **Kader, Noah
+and Kang, Inwon
+and Seneviratne, Oshani**. *Enhancing Web Spam Detection Through a Blockchain-Enabled Crowdsourcing Mechanism*. In Web Information Systems Engineering -- WISE 2024. (2024) [PDF](https://doi.org/10.1007/978-981-96-0576-7_35)
+
+- **Green, Aaron
+and Cammilleri, Christopher
+and Erickson, John S.
+and Seneviratne, Oshani
+and Bennett, Kristin P.**. *DeFi Survival Analysis: Insights into Risks and User Behaviors*. In Mathematical Research for Blockchain Economy. (2023)
+
+- **Green, Aaron
+and Giannattasio, Michael
+and Wang, Keran
+and Erickson, John S.
+and Seneviratne, Oshani
+and Bennett, Kristin P.**. *Characterizing Common Quarterly Behaviors in DeFi Lending Protocols*. In Mathematical Research for Blockchain Economy. (2023)
+
+- **Matthew Pisano, Connor Patterson, and Oshani Seneviratne**. *PredictChain: Empowering Collaboration and Data Accessibility for AI in a Decentralized Blockchain-based Marketplace*. In ChainScience 2023. (2023) [PDF](https://arxiv.org/html/2307.03277)
+
+- **Sabbir Rashid, Jamie McCusker, Daniel Gruen, et al.**. *A Concise Ontology to Support Research on Complex, Multimodal Clinical Reasoning*. In The Semantic Web: 20th International Conference, ESWC 2023, Hersonissos, Crete, Greece, May 28–June 1, 2023, Proceedings. (2023) [PDF](https://doi.org/10.1007/978-3-031-33455-9_23) | [DOI](https://doi.org/10.1007/978-3-031-33455-9_23)
+
+- **Kacy Adams and
+Deborah McGuinness  and
+Oshani Seneviratne**. *Semantics-based Framework for Incentivized Research Data Sharing*. (2023) [PDF](https://journals.flvc.org/FLAIRS/article/view/133374) | [DOI](https://doi.org/10.32473/flairs.36.133374)
+
+- **Sanjaya Mallikarachchi, Bonnie Ho, Oshani Seneviratne, et al.**. *Decentralized Data Collection via Swarm Contracts: Study on Crowd-Sourced Google Maps*. In 2023 9th International Conference on Control, Automation and Robotics (ICCAR). (2023) [DOI](https://doi.org/10.1109/ICCAR57134.2023.10151727)
+
+- **Sanjaya Mallikarachchi, Bonnie Ho, Iyad Kanj, et al.**. *Decentralized Framework for Collection and Secure Storage of Google Street View Data: Case Study*. In IEEE IAS Global Conference on Emerging Technologies (GlobConET). (2023) [DOI](https://doi.org/10.1109/GlobConET56651.2023.10150089)
+
+- **Shukla, Manan and Seneviratne, Oshani**. *MentalHealthAI: Utilizing Personal Health Device Data to Optimize Psychiatry Treatment*. In AMIA Annual Symposium Proceedings. (2023) [PDF](https://pubmed.ncbi.nlm.nih.gov/38222418)
+
+- **Mallikarachchi, Sanjaya, Dai, Can, Seneviratne, Oshani, and Godage, Isuru**. *Managing Collaborative Tasks within Heterogeneous Robotic Swarms using Swarm Contracts*. In 2022 IEEE International Conference on Decentralized Applications and Infrastructures (DAPPS). (2022) [DOI](https://doi.org/10.1109/DAPPS55202.2022.00014)
+
+- **Gridley, Jared and Seneviratne, Oshani**. *Significant Digits: Using Large-Scale Blockchain Data to Predict Fraudulent Addresses*. In 2022 IEEE International Conference on Big Data (Big Data). (2022) [DOI](https://doi.org/10.1109/BigData55660.2022.10020971)
+
+- **William Van Woensel and
+Floriano Scioscia and
+Giuseppe Loseto and
+Oshani Seneviratne and
+Evan W. Patton and
+Samina Abidi and
+Lalana Kagal**. *Explainable Clinical Decision Support: Towards Patient-Facing Explanations
+for Education and Long-Term Behavior Change*. In Artificial Intelligence in Medicine - 20th International Conference
+on Artificial Intelligence in Medicine, AIME 2022, Halifax, NS,
+Canada, June 14-17, 2022, Proceedings. (2022) [PDF](https://doi.org/10.1007/978-3-031-09342-5_6) | [DOI](https://doi.org/10.1007/978-3-031-09342-5_6)
+
+- **Manan Shukla and
+Jianjing Lin and
+Oshani Seneviratne**. *Collaboratively Learning Optimal Patient Outcomes Using Smart Contracts in Limited Data Settings*. In IEEE/ACM Conference on Connected Health: Applications, Systems and
+Engineering Technologies, CHASE 2022, Arlington, VA, USA, November
+17-19, 2022. (2022) [PDF](https://ieeexplore.ieee.org/document/9983613)
+
+- **Oshani Seneviratne and
+Deborah L. McGuinness**. *Incentivized Research Data Sharing, Reusing and Repurposing with Blockchain Technologies*. In 55th Hawaii International Conference on System Sciences, HICSS 2022,
+Virtual Event / Maui, Hawaii, USA, January 4-7, 2022. (2022) [PDF](http://hdl.handle.net/10125/80231)
+
+- **Yufei Wu and
+Thilanka Munasinghe and
+Lydia Manikonda and
+Oshani Seneviratne**. *Data-driven Analysis of Remote Work in China during the COVID-19
+Pandemic*. In 55th Hawaii International Conference on System Sciences, HICSS 2022,
+Virtual Event / Maui, Hawaii, USA, January 4-7, 2022. (2022) [PDF](http://hdl.handle.net/10125/79676)
+
+```{=html}
+</div>
+```
+
+### Workshop Papers
+
+```{=html}
+<div class='pub-category' data-category='workshops'>
+```
+
+- **Seneviratne, Oshani, Capuzzo, Brendan, and Van Woensel, William**. *Explainability-Driven Quality Assessment for Rule-Based Systems*. In Companion Proceedings of the ACM on Web Conference 2025. (2025) [PDF](https://doi.org/10.1145/3701716.3717571) | [DOI](https://doi.org/10.1145/3701716.3717571)
+
+- **Wu, Bijun and Seneviratne, Oshani**. *Blockchain-based Framework for Scalable and Incentivized Federated Learning*. In Companion Proceedings of the ACM on Web Conference 2025. (2025) [PDF](https://doi.org/10.1145/3701716.3717649) | [DOI](https://doi.org/10.1145/3701716.3717649)
+
+- **Spadea, Fernando and Seneviratne, Oshani**. *Federated Fine-Tuning of Large Language Models: Kahneman-Tversky vs. Direct Preference Optimization*. In Companion Proceedings of the ACM on Web Conference 2025. (2025) [PDF](https://doi.org/10.1145/3701716.3717647) | [DOI](https://doi.org/10.1145/3701716.3717647)
+
+- **Maruf Ahmed Mridul, Inwon Kang, and Oshani Seneviratne**. *Terminators: Terms of Service Parsing and Auditing Agents*. In Companion Proceedings of the ACM on Web Science Conference 2025. (2025) [PDF](https://doi.org/10.1145/3720554.3736183) | [DOI](https://doi.org/10.1145/3720554.3736183)
+
+- **Fernado Spadea and Oshani Seneviratne**. *Bursting the Filter Bubble with Knowledge Graph Inversion*. In Companion Proceedings of the ACM on Web Science Conference 2025. (2025) [PDF](https://doi.org/10.1145/3720554.3736182) | [DOI](https://doi.org/10.1145/3720554.3736182)
+
+- **Fernado Spadea and Oshani Seneviratne**. *Parallel and Multi-Stage Knowledge Graph Retrieval for Behaviorally Aligned Financial Asset Recommendations*. In RAGE-KG 2025: The Second International Workshop on Retrieval-Augmented Generation Enabled by Knowledge Graphs, co-located with ISWC 2025, November 2--6, 2025, Nara, Japan. (2025)
+
+- **Nipun D. Pathirage, Oshani Seneviratne, and Deborah L. McGuinness**. *ARGOS: Ontology Design Patterns for Governing Dynamic Data Operations in LLM-Powered Applications*. In Workshop on Ontology Pattern (WOP 2025), ISWC 2025, November 2--6, 2025, Nara, Japan. (2025)
+
+- **Asara Senaratne, Oshani Seneviratne, Hon Zent Lim, and Leelanga Seneviratne**. *COPE: Chronic Observation and Progression Events Ontology*. In Sci-K Workshop, ISWC 2025, November 2--6, 2025, Nara, Japan. (2025)
+
+- **Lorenzo Carta, Fernando Spadea, and Oshani Seneviratne**. *Explainable Federated Learning for U.S. State-Level Financial Distress Modeling*. In XAI-FIN-2025: International Joint Workshop on Explainable AI in Finance, ICAIF 2025, November 15--18, 2025, Singapore. (2025)
+
+- **Mridul, Maruf Ahmed and Seneviratne, Oshani**. *Resource-Efficient LLM Application for Structured Transformation of Unstructured Financial Contracts*. In The 2nd Workshop on LLMs and Generative AI for Finance, ICAIF 2025, November 15--18, 2025, Singapore. (2025)
+
+- **Van Woensel, William
+and Scioscia, Floriano
+and Loseto, Giuseppe
+and Seneviratne, Oshani
+and Patton, Evan
+and Abidi, Samina**. *Explanations of Symbolic Reasoning to Effect Patient Persuasion and Education*. In Explainable Artificial Intelligence and Process Mining Applications for Healthcare. (2024)
+
+- **Inwon Kang, William Van Woensel, and Oshani Seneviratne**. *Using Large Language Models for Generating Smart Contracts for Health Insurance from Textual Policies*. In The 8th International Workshop on Health Intelligence at AAAI'24, February 26-27 2024, Vancouver, Canada. (2024)
+
+- **Henrique Santos, Jamie McCusker, John S. Erickson, et al.**. *Towards Computable and Explainable Policies Using Semantic Web Standards*. In International Semantic Web Conference - 15th Workshop on Ontology Design and Patterns (WOP). (2024) [PDF](https://openreview.net/forum?id=i4Jcu0p87D)
+
+- **Inwon Kang, Sikai Ruan, Jui-Chien Lin, et al.**. *LLM-powered Preference Learning from Natural Language*. In Twenty-Fifth ACM Conference on Economics and Computation (EC) - Workshop on Foundation Models and Game Theory (FMGT 2024). (2024) [PDF](https://arxiv.org/pdf/2310.08523)
+
+- **Oshani Seneviratne**. *Decentralized, Explainable, and Personalized Mental Health Monitoring*. In 2024 IEEE 12th International Conference on Healthcare Informatics (ICHI). (2024) [DOI](https://doi.org/10.1109/ICHI61247.2024.00101)
+
+- **William Van Woensel, Manan Shukla, and Oshani Seneviratne**. *Translating Clinical Decision Logic Within Knowledge Graphs to Smart Contracts*. In SeWeBMeDa@ ESWC. (2023) [PDF](https://ceur-ws.org/Vol-3466/paper3.pdf)
+
+- **Kacy Adams and
+Fernando Spadea and
+Conor Flynn  and
+Oshani Seneviratne**. *Assessing Scientific Contributions in Data Sharing Spaces*. In ACM Web Conference's 3rd International Workshop on Scientific Knowledge: Representation, Discovery, and Assessment (Sci-K 2023). (2023) [PDF](https://doi.org/10.1145/3543873.3587608) | [DOI](https://doi.org/10.1145/3543873.3587608)
+
+- **Oshani Seneviratne and Deborah L. McGuinness**. *Web 3.0 Meets Web3: Exploring the Convergence of Semantic Web and Blockchain Technologies*. In Trusting Decentralised KGs on the Web (TrustDeKW'23) at the Extended Semantic Web Conference (ESWC'23), May 28, 2023, Hersonissos, Greece. (2023) [PDF](https://ceur-ws.org/Vol-3443/ESWC_2023_TrusDeKW_paper_247.pdf)
+
+- **Flynn, Conor, Bennett, Kristin P., Erickson, John S., et al.**. *Enabling Cross-Language Data Integration and Scalable Analytics in Decentralized Finance*. In 2023 IEEE International Conference on Big Data (BigData). (2023) [DOI](https://doi.org/10.1109/BigData59044.2023.10386383)
+
+- **Seneviratne, Oshani, Manan Shukla, and Jianjin Lin**. *Simplifying Complex Healthcare Needs With Blockchain and Internet of Medical Things*. In CHI-ComplexHealth'22: CHI 2022 Workshop - Challenges, Tensions, and Opportunities in Designing Ecosystems to Support the Management of Complex Health Needs. (2022)
+
+- **Oshani Seneviratne**. *Blockchain for Social Good: Combating Misinformation on the Web with
+AI and Blockchain*. In WebSci '22: 14th ACM Web Science Conference 2022, Barcelona, Spain,
+June 26 - 29, 2022. (2022) [PDF](https://doi.org/10.1145/3501247.3539016) | [DOI](https://doi.org/10.1145/3501247.3539016)
+
+- **Kang, Inwon, Gupta, Aparna, and Seneviratne, Oshani**. *Blockchain Interoperability Landscape*. In 2022 IEEE International Conference on Big Data (Big Data). (2022) [DOI](https://doi.org/10.1109/BigData55660.2022.10020412)
+
+```{=html}
+</div>
+```
+
+### Technical Reports
+
+```{=html}
+<div class='pub-category' data-category='techreports'>
+```
+
+- **Piero Andrea Bonatti, Irene Celino, Andrea Cimmino, et al.**. *Machine Readable Norms and Policies*. (2025)
+
+- **Chari, Shruthi, Seneviratne, Oshani, Chakraborty, Prithwish, et al.**. *MetaExplainer: A Framework to Generate Multi-Type User-Centered Explanations for AI Systems*. In *arXiv preprint arXiv:2508.00300*. (2025)
+
+- **Green, Aaron, Nie, Zihan, Qin, Hanzhen, et al.**. *FinSurvival: A Suite of Large Scale Survival Modeling Tasks from Finance*. In *arXiv preprint arXiv:2507.14160*. (2025)
+
+- **Brian Callahan, Christopher Carothers, Thomas Ferguson, et al.**. *Harnessing the Future of Computing: Opportunities, Challenges, and Innovations*. (2024)
+
+- **Zhongqi Yang, Iman Azimi, Mohammed J. Zaki, et al.**. *Transforming Personal Health AI: Integrating Knowledge and Causal Graphs with Large Language Models*. In Proceedings of the ISCAP Conference. (2024)
+
+- **Gupta, Aparna, Harithsa, Jyothsna G., and Seneviratne, Oshani**. *Challenges and Insights for US Initial Coin Offerings*. (2023) [PDF](https://ssrn.com/abstract=4528308)
+
+- **Oshani Seneviratne, Aparna Gupta, and Muhammed Ahmed**. *Towards Smarter, Efficient and Trusted Insurance Marketplaces through Computable Contracts*. In CapGemini White Papers. (2022) [PDF](https://prod.ucwe.capgemini.com/wp-content/uploads/2022/06/Computable_Contracts_20.pdf)
+
+```{=html}
+</div>
+```
+
+### Poster Papers
+
+```{=html}
+<div class='pub-category' data-category='posters'>
+```
+
+- **Fernado Spadea and Oshani Seneviratne**. *Avoiding Overpersonalization with Rule-Guided Knowledge Graph Adaptation for LLM Recommendations*. In Posters Track, ISWC 2025, November 2--6, 2025, Nara, Japan. (2025)
+
+- **Shruthi Chari, Oshani Seneviratne, Prithwish Chakraborty, et al.**. *MetaExplainer In Action: An Overview of a Framework to Generate Multi-Type User-Centered Explanations*. In Posters Track, ISWC 2025, November 2--6, 2025, Nara, Japan. (2025)
+
+- **Kang, Inwon, Ram, Parikshit, Zhou, Yi, et al.**. *Effective Data Distillation for Tabular Datasets*. In *Proceedings of the AAAI Conference on Artificial Intelligence*. (2024) [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/30460) | [DOI](https://doi.org/10.1609/aaai.v38i21.30460)
+
+- **Spadea, Fernando and Seneviratne, Oshani**. *Navigating the Chaos: The Sandbox Network Analysis*. In Companion Publication of the 16th ACM Web Science Conference. (2024) [PDF](https://doi.org/10.1145/3630744.3658411) | [DOI](https://doi.org/10.1145/3630744.3658411)
+
+- **Oshani Seneviratne and Deborah L. McGuinness**. *Enhancing Biomedical Collaboration through Advanced Data Sharing Mechanisms*. In Chicago Bioengineering Conference (CBEC). (2024)
+
+- **Seneviratne, Oshani**. *Enabling Data Interoperability for Decentralized, Smart, and Connected Health Applications*. In 2023 IEEE/ACM Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE). (2023) [DOI](https://doi.org/10.1145/3580252.3589433)
+
+- **Inwon Kang, William Van Woensel, Manan Shukla, and Oshani Seneviratne**. *Exploring the Use of Large Language Models for Generating Decision Logic and Smart Contracts for Healthcare Processes from Natural Text*. In Mobilizing Computable Biomedical Knowledge Global Meeting. (2023)
+
+- **Inwon Kang, Sikai Ruan, Tyler Ho, et al.**. *LLM-augmented Preference Learning from Natural Language*. In DIMACS Workshop. (2023)
+
+```{=html}
+</div>
+```
+
+### Demo Papers
+
+```{=html}
+<div class='pub-category' data-category='demos'>
+```
+
+- **Shukla, Manan, Lin, Jianjing, and Seneviratne, Oshani**. *Blockchain and IoT Enhanced Clinical Workflow*. In International Conference on Artificial Intelligence in Medicine. (2022)
+
+- **Patton, Evan, Van Woensel, William, Seneviratne, Oshani, et al.**. *Development of AI-Enabled Apps by Patients and Domain Experts Using the Punya Platform: A Case Study for Diabetes*. In Artificial Intelligence in Medicine: 20th International Conference on Artificial Intelligence in Medicine, AIME 2022, Halifax, NS, Canada, June 14–17, 2022, Proceedings. (2022) [PDF](https://doi.org/10.1007/978-3-031-09342-5_45) | [DOI](https://doi.org/10.1007/978-3-031-09342-5_45)
+
+```{=html}
+</div>
+```
+
+```{=html}
+</div>
+```
+
+```{=html}
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const searchInput = document.getElementById('pubSearch');
+  const categories = document.querySelectorAll('.pub-category');
+
+  searchInput.addEventListener('input', function(e) {
+    const searchTerm = e.target.value.toLowerCase();
+
+    categories.forEach(category => {
+      const items = category.querySelectorAll('li');
+      let hasVisible = false;
+
+      items.forEach(item => {
+        const text = item.textContent.toLowerCase();
+        if (text.includes(searchTerm)) {
+          item.style.display = '';
+          hasVisible = true;
+        } else {
+          item.style.display = 'none';
+        }
+      });
+
+      // Hide category if no visible items
+      const categoryHeading = category.previousElementSibling;
+      if (categoryHeading && categoryHeading.tagName === 'H3') {
+        if (hasVisible || searchTerm === '') {
+          categoryHeading.style.display = '';
+          category.style.display = '';
+        } else {
+          categoryHeading.style.display = 'none';
+          category.style.display = 'none';
+        }
+      }
+    });
+  });
+});
+</script>
+```
