@@ -1,0 +1,20 @@
+---
+title: "News"
+---
+
+## Latest News
+
+Recent updates and announcements from the BRAINS research group.
+
+::: {.callout-tip}
+## News Items
+This page will automatically display news items from the past 2 months. Older items will be archived.
+:::
+
+*News items will be displayed here...*
+
+### Recent Highlights
+
+*Check back soon for updates!*
+
+

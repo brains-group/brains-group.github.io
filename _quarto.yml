@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "BRAINS Research Group"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Projects
+      - href: people.qmd
+        text: People
+      - href: publications.qmd
+        text: Publications
+      - href: news.qmd
+        text: News
+      - href: alumni.qmd
+        text: Alumni
+    right:
+      - icon: github
+        href: https://github.com/brains-group
+      - icon: envelope
+        href: mailto:contact@brains-group.org
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    include-in-header:
+      text: |
+        <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+

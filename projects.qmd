@@ -1,0 +1,24 @@
+---
+title: "Projects"
+---
+
+## Research Projects
+
+Our research projects span multiple areas of decentralized systems, AI, and web technologies.
+
+::: {.callout-tip}
+## Adding Projects
+This page will be populated with detailed information about ongoing and completed research projects, including associated personnel and publications.
+:::
+
+### Project Categories
+
+- **Decentralized AI Systems**
+- **Blockchain Applications**
+- **Web Science Research**
+- **Knowledge Graph Construction**
+- **Semantic Web Technologies**
+
+*Project details coming soon...*
+
+

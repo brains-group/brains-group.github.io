@@ -1,0 +1,30 @@
+---
+title: "Publications"
+---
+
+## Publications
+
+Research publications from the BRAINS research group.
+
+::: {.callout-tip}
+## BibTeX Integration
+This page will be automatically generated from a BibTeX file. Publications will be linked to the corresponding researchers on their profile pages.
+:::
+
+### Recent Publications
+
+*Publications will be listed here once the BibTeX file is configured...*
+
+### By Year
+
+*Publications organized by year will appear here...*
+
+### By Research Area
+
+- **Decentralized AI**
+- **Blockchain**
+- **Web Science**
+- **Knowledge Graphs**
+- **Semantic Web**
+
+

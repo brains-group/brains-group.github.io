@@ -1,0 +1,156 @@
+/* Custom styles for BRAINS Research Group website */
+
+/* Hero section styling with particles.js */
+.hero-section {
+  position: relative;
+  text-align: center;
+  padding: 4rem 2rem;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  border-radius: 12px;
+  margin-bottom: 3rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  min-height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#particles-js {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: 1;
+}
+
+.hero-content {
+  position: relative;
+  z-index: 2;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.hero-section h1 {
+  font-size: 3rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  color: white;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.hero-section h2 {
+  font-size: 1.5rem;
+  font-weight: 300;
+  margin-bottom: 0.5rem;
+  color: rgba(255, 255, 255, 0.95);
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
+}
+
+.hero-section p {
+  font-size: 1.1rem;
+  margin-top: 1rem;
+  color: rgba(255, 255, 255, 0.9);
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
+}
+
+@media (max-width: 768px) {
+  .hero-section {
+    padding: 3rem 1.5rem;
+    min-height: 350px;
+  }
+  
+  .hero-section h1 {
+    font-size: 2rem;
+  }
+  
+  .hero-section h2 {
+    font-size: 1.2rem;
+  }
+}
+
+/* Research areas grid layout */
+.research-areas {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2rem;
+  margin: 3rem 0;
+}
+
+.research-area {
+  background: var(--bs-body-bg);
+  border: 2px solid var(--bs-border-color);
+  border-radius: 12px;
+  padding: 2rem;
+  transition: transform 0.3s ease, box-shadow 0.3s ease, border-color 0.3s ease;
+  text-align: center;
+}
+
+.research-area:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+  border-color: var(--bs-primary);
+}
+
+.research-area h3 {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  color: var(--bs-primary);
+  font-size: 1.4rem;
+  font-weight: 600;
+}
+
+.research-icon {
+  font-size: 4rem;
+  margin-bottom: 1rem;
+  display: block;
+}
+
+.research-area p {
+  color: var(--bs-body-color);
+  line-height: 1.6;
+  margin-bottom: 1rem;
+}
+
+.research-area strong {
+  color: var(--bs-primary);
+  font-size: 0.9rem;
+  display: block;
+  margin-top: 1rem;
+}
+
+/* News preview styling */
+.news-preview {
+  background: var(--bs-light);
+  border-left: 4px solid var(--bs-primary);
+  padding: 1rem;
+  margin: 2rem 0;
+  border-radius: 4px;
+}
+
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .research-areas {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Custom callout styling */
+.callout {
+  margin: 1.5rem 0;
+}
+
+/* Link styling */
+a {
+  color: var(--bs-primary);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--bs-primary-dark);
+  text-decoration: underline;
+}
+

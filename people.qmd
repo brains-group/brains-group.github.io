@@ -1,0 +1,26 @@
+---
+title: "People"
+---
+
+## Current Students
+
+Meet the members of the BRAINS research group.
+
+::: {.callout-tip}
+## Adding People
+This page will display current students with their photos, names, and co-authored papers. Each person's information will be linked to their publications.
+:::
+
+### Faculty
+
+*Faculty information coming soon...*
+
+### Graduate Students
+
+*Student profiles coming soon...*
+
+### Undergraduate Students
+
+*Student profiles coming soon...*
+
+

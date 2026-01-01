@@ -1,0 +1,191 @@
+---
+title: "BRAINS Research Group"
+subtitle: "Bridging Resilient Accountable Intelligent Networked Systems"
+---
+
+```{=html}
+<div class="hero-section" id="hero">
+  <div id="particles-js"></div>
+  <div class="hero-content">
+    <h1>BRAINS Research Group</h1>
+    <h2>Bridging Resilient Accountable Intelligent Networked Systems</h2>
+    <p><strong>Rensselaer Polytechnic Institute</strong></p>
+  </div>
+</div>
+```
+
+```{=html}
+<script>
+  particlesJS('particles-js', {
+    particles: {
+      number: {
+        value: 80,
+        density: {
+          enable: true,
+          value_area: 800
+        }
+      },
+      color: {
+        value: '#ffffff'
+      },
+      shape: {
+        type: 'circle',
+        stroke: {
+          width: 0,
+          color: '#000000'
+        }
+      },
+      opacity: {
+        value: 0.5,
+        random: false,
+        anim: {
+          enable: false,
+          speed: 1,
+          opacity_min: 0.1,
+          sync: false
+        }
+      },
+      size: {
+        value: 3,
+        random: true,
+        anim: {
+          enable: false,
+          speed: 40,
+          size_min: 0.1,
+          sync: false
+        }
+      },
+      line_linked: {
+        enable: true,
+        distance: 150,
+        color: '#ffffff',
+        opacity: 0.4,
+        width: 1
+      },
+      move: {
+        enable: true,
+        speed: 2,
+        direction: 'none',
+        random: false,
+        straight: false,
+        out_mode: 'out',
+        bounce: false,
+        attract: {
+          enable: false,
+          rotateX: 600,
+          rotateY: 1200
+        }
+      }
+    },
+    interactivity: {
+      detect_on: 'canvas',
+      events: {
+        onhover: {
+          enable: true,
+          mode: 'repulse'
+        },
+        onclick: {
+          enable: true,
+          mode: 'push'
+        },
+        resize: true
+      },
+      modes: {
+        grab: {
+          distance: 400,
+          line_linked: {
+            opacity: 1
+          }
+        },
+        bubble: {
+          distance: 400,
+          size: 40,
+          duration: 2,
+          opacity: 8,
+          speed: 3
+        },
+        repulse: {
+          distance: 200,
+          duration: 0.4
+        },
+        push: {
+          particles_nb: 4
+        },
+        remove: {
+          particles_nb: 2
+        }
+      }
+    },
+    retina_detect: true
+  });
+</script>
+```
+
+## Welcome
+
+The **BRAINS** Research Group at Rensselaer Polytechnic Institute (RPI) focuses on innovative solutions for decentralized systems, intelligent networks, and semantic technologies that are resilient, accountable, and trustworthy.
+
+## Research Areas
+
+<div class="research-areas">
+
+::: {.research-area}
+<div class="research-icon">🤖</div>
+### Decentralized AI
+
+Developing decentralized artificial intelligence systems that operate across multiple nodes without central coordination, enabling privacy-preserving and scalable AI solutions.
+
+:::
+
+::: {.research-area}
+<div class="research-icon">⛓️</div>
+### Blockchain
+
+Exploring blockchain technologies for secure, transparent, and decentralized data management and smart contract systems.
+
+**Key Topics**: Smart Contracts, Consensus Algorithms, Decentralized Applications
+:::
+
+::: {.research-area}
+<div class="research-icon">🌐</div>
+### Web Science
+
+Investigating the structure, behavior, and evolution of the World Wide Web to understand and improve web-based systems and applications.
+
+**Key Topics**: Web Analytics, Network Analysis, Web Architecture
+:::
+
+::: {.research-area}
+<div class="research-icon">🕸️</div>
+### Knowledge Graphs
+
+Building and leveraging knowledge graphs to represent, query, and reason over complex relationships in data and information systems.
+
+**Key Topics**: Graph Databases, Entity Resolution, Knowledge Representation
+:::
+
+::: {.research-area}
+<div class="research-icon">🔗</div>
+### Semantic Web
+
+Advancing semantic web technologies including RDF, OWL, and linked data to enable machines to understand and process web content meaningfully.
+
+**Key Topics**: RDF, OWL, Linked Data, Ontologies
+:::
+
+</div>
+
+## Latest News
+
+::: {.news-preview}
+*Check out our [News](news.qmd) page for the latest updates from the BRAINS research group.*
+:::
+
+## Get Involved
+
+We are always looking for motivated students and collaborators. If you're interested in our research areas, please reach out!
+
+- **Current Students**: See our [People](people.qmd) page
+- **Research Projects**: Explore our [Projects](projects.qmd) page
+- **Publications**: Browse our [Publications](publications.qmd) page
+

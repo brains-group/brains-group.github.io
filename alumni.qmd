@@ -1,0 +1,18 @@
+---
+title: "Alumni"
+---
+
+## Alumni
+
+Former members of the BRAINS research group.
+
+::: {.callout-tip}
+## Alumni Profiles
+This page will display alumni with their photos, projects they worked on, and publications they contributed to during their time in the group.
+:::
+
+### Alumni Directory
+
+*Alumni information coming soon...*
+
+
