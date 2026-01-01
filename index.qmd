@@ -132,7 +132,7 @@ The **BRAINS** Research Group at Rensselaer Polytechnic Institute (RPI) focuses 
 <div class="research-icon">🤖</div>
 ### Decentralized AI
 
-Developing decentralized artificial intelligence systems that operate across multiple nodes without central coordination, enabling privacy-preserving and scalable AI solutions.
+Developing intelligent systems that operate without central coordination, enabling privacy-preserving and scalable AI solutions.
 
 :::
 
@@ -142,7 +142,6 @@ Developing decentralized artificial intelligence systems that operate across mul
 
 Exploring blockchain technologies for secure, transparent, and decentralized data management and smart contract systems.
 
-**Key Topics**: Smart Contracts, Consensus Algorithms, Decentralized Applications
 :::
 
 ::: {.research-area}
@@ -151,7 +150,6 @@ Exploring blockchain technologies for secure, transparent, and decentralized dat
 
 Investigating the structure, behavior, and evolution of the World Wide Web to understand and improve web-based systems and applications.
 
-**Key Topics**: Web Analytics, Network Analysis, Web Architecture
 :::
 
 ::: {.research-area}
@@ -160,16 +158,6 @@ Investigating the structure, behavior, and evolution of the World Wide Web to un
 
 Building and leveraging knowledge graphs to represent, query, and reason over complex relationships in data and information systems.
 
-**Key Topics**: Graph Databases, Entity Resolution, Knowledge Representation
-:::
-
-::: {.research-area}
-<div class="research-icon">🔗</div>
-### Semantic Web
-
-Advancing semantic web technologies including RDF, OWL, and linked data to enable machines to understand and process web content meaningfully.
-
-**Key Topics**: RDF, OWL, Linked Data, Ontologies
 :::
 
 </div>

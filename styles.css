@@ -74,8 +74,8 @@
 /* Research areas grid layout */
 .research-areas {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 2rem;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1.5rem;
   margin: 3rem 0;
 }
 
@@ -83,7 +83,7 @@
   background: var(--bs-body-bg);
   border: 2px solid var(--bs-border-color);
   border-radius: 12px;
-  padding: 2rem;
+  padding: 1.5rem;
   transition: transform 0.3s ease, box-shadow 0.3s ease, border-color 0.3s ease;
   text-align: center;
 }
@@ -95,16 +95,16 @@
 }
 
 .research-area h3 {
-  margin-top: 1rem;
-  margin-bottom: 1rem;
+  margin-top: 0.75rem;
+  margin-bottom: 0.75rem;
   color: var(--bs-primary);
-  font-size: 1.4rem;
+  font-size: 1.2rem;
   font-weight: 600;
 }
 
 .research-icon {
-  font-size: 4rem;
-  margin-bottom: 1rem;
+  font-size: 3rem;
+  margin-bottom: 0.75rem;
   display: block;
 }
 
@@ -130,8 +130,31 @@
   border-radius: 4px;
 }
 
+/* Make main content wider */
+.container,
+.container-fluid,
+.quarto-layout-row .column-body,
+main.content,
+.quarto-body {
+  max-width: 1600px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+/* Override Bootstrap container constraints */
+@media (min-width: 1400px) {
+  .container {
+    max-width: 1600px !important;
+  }
+}
 
 /* Responsive adjustments */
+@media (max-width: 1200px) {
+  .research-areas {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
 @media (max-width: 768px) {
   .research-areas {
     grid-template-columns: 1fr;
@@ -157,9 +180,16 @@ a:hover {
 /* People grid layout */
 .people-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
-  gap: 2rem;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
   margin: 2rem 0;
+  max-width: 100%;
+}
+
+@media (min-width: 900px) {
+  .people-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
 }
 
 .person-card {
@@ -267,9 +297,15 @@ a:hover {
   margin-top: 0.25rem;
 }
 
+@media (max-width: 899px) {
+  .people-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
 @media (max-width: 768px) {
   .people-grid {
-    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    grid-template-columns: 1fr;
     gap: 1.5rem;
   }
   
