@@ -161,18 +161,3 @@ Building and leveraging knowledge graphs to represent, query, and reason over co
 :::
 
 </div>
-
-## Latest News
-
-::: {.news-preview}
-*Check out our [News](news.qmd) page for the latest updates from the BRAINS research group.*
-:::
-
-## Get Involved
-
-We are always looking for motivated students and collaborators. If you're interested in our research areas, please reach out!
-
-- **Current Students**: See our [People](people.qmd) page
-- **Research Projects**: Explore our [Projects](projects.qmd) page
-- **Publications**: Browse our [Publications](publications.qmd) page
-

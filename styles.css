@@ -1,5 +1,11 @@
 /* Custom styles for BRAINS Research Group website */
 
+/* Hide the page title block only on pages with hero section (index page) */
+body:has(.hero-section) .quarto-title-block,
+.quarto-title-block:has(~ .hero-section) {
+  display: none;
+}
+
 /* Hero section styling with particles.js */
 .hero-section {
   position: relative;

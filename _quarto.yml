@@ -21,8 +21,6 @@ website:
     right:
       - icon: github
         href: https://github.com/brains-group
-      - icon: envelope
-        href: mailto:contact@brains-group.org
 
 format:
   html:
