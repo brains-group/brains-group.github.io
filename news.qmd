@@ -10,10 +10,8 @@ Recent updates and announcements from the BRAINS research group.
 <label for="yearFilter">Year:</label>
 <select id="yearFilter" class="news-filter-select">
   <option value="all">All Years</option>
+  <option value="2025">2026</option>
   <option value="2025">2025</option>
-  <option value="2024">2024</option>
-  <option value="2023">2023</option>
-  <option value="2022">2022</option>
 </select>
 <label for="monthFilter">Month:</label>
 <select id="monthFilter" class="news-filter-select">
@@ -31,6 +29,7 @@ Recent updates and announcements from the BRAINS research group.
   <option value="11">November</option>
   <option value="12">December</option>
 </select>
+<br/><br/>
 <button id="clearFilter" class="news-filter-button">Clear Filters</button>
 </div>
 
