@@ -1,20 +1,181 @@
 ---
-title: "News"
+title: "Latest News"
 ---
-
-## Latest News
 
 Recent updates and announcements from the BRAINS research group.
 
-::: {.callout-tip}
-## News Items
-This page will automatically display news items from the past 2 months. Older items will be archived.
+<div class="news-filters">
+<label for="keywordFilter">Search:</label>
+<input type="text" id="keywordFilter" class="news-filter-input" placeholder="Search by keyword...">
+<label for="yearFilter">Year:</label>
+<select id="yearFilter" class="news-filter-select">
+  <option value="all">All Years</option>
+  <option value="2025">2025</option>
+  <option value="2024">2024</option>
+  <option value="2023">2023</option>
+  <option value="2022">2022</option>
+</select>
+<label for="monthFilter">Month:</label>
+<select id="monthFilter" class="news-filter-select">
+  <option value="all">All Months</option>
+  <option value="01">January</option>
+  <option value="02">February</option>
+  <option value="03">March</option>
+  <option value="04">April</option>
+  <option value="05">May</option>
+  <option value="06">June</option>
+  <option value="07">July</option>
+  <option value="08">August</option>
+  <option value="09">September</option>
+  <option value="10">October</option>
+  <option value="11">November</option>
+  <option value="12">December</option>
+</select>
+<button id="clearFilter" class="news-filter-button">Clear Filters</button>
+</div>
+
+::: {.news-item data-year="2025" data-month="12"}
+<div class="news-date">December 25, 2025</div>
+<div class="news-title">AI-R2D2 Workshop at IEEE ICBC 2026</div>
+
+Following our inaugural AI-R2D2 workshop at the ACM AI in Finance Conference (ICAIF 2025) in Singapore (November 2025), we are organizing the next edition at **IEEE ICBC 2026** in Brisbane, Australia (June 2026).
+
+**Paper submission deadline:** March 25, 2026
+
+**Co-organizers:** Zachary Feinstein, Wei Cai, Mary Lai Salvaña, Aaron Green, and Fernando Spadea.
+
+[Learn more about AI-R2D2 →](https://ai-r2d2.github.io){.news-link target="_blank"}
 :::
 
-*News items will be displayed here...*
+::: {.news-item data-year="2025" data-month="12"}
+<div class="news-date">December 22, 2025</div>
+<div class="news-title">Faculty Spotlight in CRAFT Annual Report</div>
 
-### Recent Highlights
+Oshani Seneviratne is featured in the **Faculty Spotlight Q&A** in the CRAFT 2025 Annual Report.
 
-*Check back soon for updates!*
+[Read the CRAFT 2025 Annual Report →](https://assets.stevens.edu/mviowpldu823/1VXVAMZAYN69ArCo1ektfL/888d237d0ac969119e24d9c088ce333c/CRAFT_2025_Annual_Report.pdf){.news-link target="_blank"}
+:::
 
+::: {.news-item data-year="2025" data-month="11"}
+<div class="news-date">November 28, 2025</div>
+<div class="news-title">Keynote at Solid Symposium 2026</div>
 
+Oshani Seneviratne will be giving a **keynote address** at the Solid Symposium (30 April – 1 May) in London.
+
+[View Solid Symposium Speakers →](https://sosy2026.eu/Speakers/){.news-link target="_blank"}
+:::
+
+::: {.news-item data-year="2025" data-month="11"}
+<div class="news-date">November 17, 2025</div>
+<div class="news-title">FinSurvival Competition Winners Announced</div>
+
+Oshani Seneviratne, along with Fernando Spadea, Kristin Bennett, Aaron Green, Adrien Pavão, and Corey Curran, is pleased to announce the successful completion of the **inaugural FinSurvival Competition** at ICAIF 2025. This event brought together outstanding teams who tackled the challenge of time-to-event survival modeling for DeFi lending markets.
+
+::: {.news-highlight}
+**Congratulations to the winning teams!**
+
+- **First Prize:** Team Afinit (Jaehyeok Shin, hyeonwoo Jeon)
+- **Second Prize:** Team ron0410530 (Rong-Lin Jian)
+- **Third Prize:** Team A*STAR IHPC & SRM University-AP (Manjil Nepal, Parth Kiran Hanchate, Gao Fei, Wei Qingsong, Renuga Kanagavelu)
+:::
+
+We are grateful to all participants for their hard work, and we extend a special thank you to the ICAIF community for their support in making this competition possible. We also sincerely thank our financial supporters, ChaLearn, Ava Labs/Avalanche, and Rensselaer Polytechnic Institute, for enabling this effort.
+
+[Learn more about FinSurvival Competition →](https://finsurvival.github.io/){.news-link target="_blank"}
+:::
+
+::: {.news-item data-year="2025" data-month="11"}
+<div class="news-date">November 11, 2025</div>
+<div class="news-title">Brave Conversations in Colombo, Sri Lanka</div>
+
+Oshani Seneviratne and Fernando Spadea, along with Anni Rowland-Campbell, organized **Brave Conversations** in Colombo, Sri Lanka.
+
+[Learn more about Brave Conversations Colombo →](https://www.braveconversations.org/event/ucsccolombo2025){.news-link target="_blank"}
+:::
+
+```{=html}
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const keywordFilter = document.getElementById('keywordFilter');
+  const yearFilter = document.getElementById('yearFilter');
+  const monthFilter = document.getElementById('monthFilter');
+  const clearFilter = document.getElementById('clearFilter');
+  const newsItems = document.querySelectorAll('.news-item');
+
+  if (!yearFilter || !monthFilter) return;
+
+  function filterNews() {
+    const keyword = keywordFilter ? keywordFilter.value.toLowerCase().trim() : '';
+    const selectedYear = yearFilter.value;
+    const selectedMonth = monthFilter.value;
+    let visibleCount = 0;
+
+    newsItems.forEach(item => {
+      const itemYear = item.getAttribute('data-year');
+      const itemMonth = item.getAttribute('data-month');
+      const itemText = item.textContent.toLowerCase();
+      
+      let showItem = true;
+
+      // Filter by keyword
+      if (keyword && !itemText.includes(keyword)) {
+        showItem = false;
+      }
+
+      // Filter by year
+      if (selectedYear !== 'all' && itemYear !== selectedYear) {
+        showItem = false;
+      }
+
+      // Filter by month
+      if (selectedMonth !== 'all' && itemMonth !== selectedMonth) {
+        showItem = false;
+      }
+
+      if (showItem) {
+        item.style.display = '';
+        visibleCount++;
+      } else {
+        item.style.display = 'none';
+      }
+    });
+
+    let noMatchMsg = document.getElementById('no-match-message');
+    
+    if (visibleCount === 0) {
+      if (!noMatchMsg) {
+        noMatchMsg = document.createElement('div');
+        noMatchMsg.id = 'no-match-message';
+        noMatchMsg.className = 'news-item';
+        noMatchMsg.style.textAlign = 'center';
+        noMatchMsg.style.padding = '3rem';
+        noMatchMsg.style.color = 'var(--bs-secondary)';
+        noMatchMsg.innerHTML = '<p>No news items found matching your filters.</p>';
+        const container = newsItems[0]?.parentElement;
+        if (container) {
+          container.appendChild(noMatchMsg);
+        }
+      }
+      noMatchMsg.style.display = '';
+    } else {
+      if (noMatchMsg) {
+        noMatchMsg.style.display = 'none';
+      }
+    }
+  }
+
+  if (keywordFilter) keywordFilter.addEventListener('input', filterNews);
+  if (yearFilter) yearFilter.addEventListener('change', filterNews);
+  if (monthFilter) monthFilter.addEventListener('change', filterNews);
+  
+  if (clearFilter) {
+    clearFilter.addEventListener('click', function() {
+      if (keywordFilter) keywordFilter.value = '';
+      yearFilter.value = 'all';
+      monthFilter.value = 'all';
+      filterNews();
+    });
+  }
+});
+</script>
+```
