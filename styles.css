@@ -103,14 +103,14 @@ body:has(.hero-section) .quarto-title-block,
 .hero-section {
   position: relative;
   text-align: center;
-  padding: 4rem 2rem;
+  padding: 2rem 2rem;
   background: linear-gradient(135deg, #d6001c 0%, #ab2328 100%);
   color: white;
   border-radius: 12px;
   margin-bottom: 3rem;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   overflow: hidden;
-  min-height: 400px;
+  min-height: 100px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -174,15 +174,15 @@ body:has(.hero-section) .quarto-title-block,
 .research-areas {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  gap: 1.5rem;
-  margin: 3rem 0;
+  gap: 1rem;
+  margin: 2rem 0;
 }
 
 .research-area {
   background: var(--bs-body-bg);
   border: 2px solid var(--bs-border-color);
-  border-radius: 12px;
-  padding: 1.5rem;
+  border-radius: 10px;
+  padding: 1rem;
   transition: transform 0.3s ease, box-shadow 0.3s ease, border-color 0.3s ease;
   text-align: center;
 }
@@ -194,8 +194,8 @@ body:has(.hero-section) .quarto-title-block,
 }
 
 .research-area h3 {
-  margin-top: 0.75rem;
-  margin-bottom: 0.75rem;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
   color: var(--bs-primary);
   font-size: 1.2rem;
   font-weight: 600;
@@ -209,7 +209,7 @@ body:has(.hero-section) .quarto-title-block,
 
 .research-area p {
   color: var(--bs-body-color);
-  line-height: 1.6;
+  line-height: 1;
   margin-bottom: 1rem;
 }
 
@@ -386,10 +386,25 @@ main.content,
   margin-right: auto !important;
 }
 
+/* Make home page content 1.5x wider (2400px) */
+body:has(.hero-section) .container,
+body:has(.hero-section) .container-fluid,
+body:has(.hero-section) .quarto-layout-row .column-body,
+body:has(.hero-section) main.content,
+body:has(.hero-section) .quarto-body,
+body:has(.hero-section) .quarto-layout-row > .quarto-body {
+  max-width: 2400px !important;
+}
+
 /* Override Bootstrap container constraints */
 @media (min-width: 1400px) {
   .container {
     max-width: 1600px !important;
+  }
+  
+  /* Home page wider container */
+  body:has(.hero-section) .container {
+    max-width: 2400px !important;
   }
 }
 

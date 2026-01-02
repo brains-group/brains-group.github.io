@@ -125,7 +125,7 @@ toc: false
 
 The **BRAINS** Research Group at Rensselaer Polytechnic Institute (RPI) focuses on innovative solutions for decentralized systems, intelligent networks, and semantic technologies that are resilient, accountable, and trustworthy.
 
-## Research Areas
+### Research Areas
 
 <div class="research-areas">
 
@@ -133,7 +133,7 @@ The **BRAINS** Research Group at Rensselaer Polytechnic Institute (RPI) focuses 
 <div class="research-icon">🤖</div>
 ### Decentralized AI
 
-Developing intelligent systems that operate without central coordination, enabling privacy-preserving and scalable AI solutions.
+<!--Developing intelligent systems that operate without central coordination, enabling privacy-preserving and scalable AI solutions.-->
 
 :::
 
@@ -141,7 +141,8 @@ Developing intelligent systems that operate without central coordination, enabli
 <div class="research-icon">⛓️</div>
 ### Blockchain
 
-Exploring blockchain technologies for secure, transparent, and decentralized data management and smart contract systems.
+
+<!--Exploring blockchain technologies for secure, transparent, and decentralized data management and smart contract systems.-->
 
 :::
 
@@ -149,7 +150,7 @@ Exploring blockchain technologies for secure, transparent, and decentralized dat
 <div class="research-icon">🌐</div>
 ### Web Science
 
-Investigating the structure, behavior, and evolution of the World Wide Web to understand and improve web-based systems and applications.
+<!--Investigating the structure, behavior, and evolution of the World Wide Web to understand and improve web-based systems and applications.-->
 
 :::
 
@@ -157,7 +158,7 @@ Investigating the structure, behavior, and evolution of the World Wide Web to un
 <div class="research-icon">🕸️</div>
 ### Knowledge Graphs
 
-Building and leveraging knowledge graphs to represent, query, and reason over complex relationships in data and information systems.
+<!-- Building and leveraging knowledge graphs to represent, query, and reason over complex relationships in data and information systems.-->
 
 :::
 
