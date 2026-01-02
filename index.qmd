@@ -1,5 +1,6 @@
 ---
 title: "BRAINS Research Group"
+toc: false
 ---
 
 ```{=html}
