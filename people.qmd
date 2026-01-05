@@ -92,6 +92,15 @@ Principal Investigator
 <div class="person-period">F'25 - S'26</div>
 :::
 
+::: {.person-card}
+<img src="photos/Current/UG/Lorenzo_Carta.jpeg" alt="Lorenzo Carta" class="person-photo" />
+
+**Lorenzo Carta**
+
+<div class="person-thesis">Private Financial Data Pods for AI-Powered Decision Making</div>
+<div class="person-period">Su'26 - S'27</div>
+:::
+
 </div>
 
 ### Undergraduate Students
@@ -113,15 +122,6 @@ Principal Investigator
 **Abid Talukder**
 
 <div class="person-thesis">Automated Generation of Computable Insurance Contracts</div>
-<div class="person-period">Su'25 - S'26</div>
-:::
-
-::: {.person-card}
-<img src="photos/Current/UG/Lorenzo_Carta.jpeg" alt="Lorenzo Carta" class="person-photo" />
-
-**Lorenzo Carta**
-
-<div class="person-thesis">Private Financial Data Pods for AI-Powered Decision Making</div>
 <div class="person-period">Su'25 - S'26</div>
 :::
 
